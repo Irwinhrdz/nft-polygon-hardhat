@@ -50,6 +50,10 @@ Install EtherScan
 npm install --save-dev @nomiclabs/hardhat-etherscan
 ```
 
+Install dotenv
+```
+npm install dotenv --save
+```
 You can delete Greeter.sol and use ThreeDigitals.sol ( rename de Collection )
 
 Try customizing the solidity code with the name of your NFT if you want.
