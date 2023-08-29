@@ -152,4 +152,4 @@ https://adigitalab.com/
 
 [Instagram](https://www.instagram.com/adigitalab)
 
-[OpenSea](https://opensea.io/collection/three-digitals) ThreeDigitals collection
+
